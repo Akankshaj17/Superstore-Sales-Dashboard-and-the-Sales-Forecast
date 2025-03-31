@@ -7,8 +7,7 @@ The objective of this project is to contribute to the success of a business by u
 # Learnings:-
 
 The learnings of this project are:- Incorporated data analysis techniques, specializing in time series, to deliver proper insights, accurate sales forecasting, and interactive dashboard.
-
-** Successfully implemented time series analytics and developed dashboards that visualized state-wise sales, annual
+ Successfully implemented time series analytics and developed dashboards that visualized state-wise sales, annual
 growth, and shipping methods.
 
 • This led to a 15% improvement in profit margins and informed strategic planning.
