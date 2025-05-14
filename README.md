@@ -1,5 +1,5 @@
 # Superstore Sales Dashboard and the Sales Forecast - 15 Days forecast.
-This is a Power Bi end to end project.
+This is a Power BI end to end project.
 # Objective:-
 
 The objective of this project is to contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series, to provide valuable insights and accurate sale forecasting.
